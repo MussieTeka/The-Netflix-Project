@@ -6,6 +6,10 @@
 
 This project is a clone of the Netflix webpage, created using HTML, CSS, and JavaScript. It replicates the design and functionality of the Netflix homepage, including the hero section, features section, and frequently asked questions (FAQ) section.
 
+## Live Demo
+
+You can view a live demo of this project [here](https://netflix-clone-brje.onrender.com/).
+
 ## Table of Contents
 
 - [Installation](#installation)
